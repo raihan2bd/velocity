@@ -1,6 +1,6 @@
 # Velocity
 
-Velocity is a compact, standard-library-only HTTP framework for Go. It is designed around a pooled request context, a method-aware route tree, explicit error returns, and safe defaults. It has no transitive dependencies.
+Velocity is a compact, standard-library-only HTTP framework for Go. It is designed around a pooled request context, a method-aware route tree, explicit error returns, and safe defaults. It has no transitive 3rd party dependencies.
 
 ## Quick start
 
