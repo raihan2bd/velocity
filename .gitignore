@@ -1,0 +1,6 @@
+# Local Go build and module caches used by verification.
+work/
+
+# CPU profiles and Windows test binaries produced by benchmark profiling.
+benchmarks/*.cpu
+benchmarks/*.exe
